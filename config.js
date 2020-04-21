@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'Uptime Status',
+  SiteName: '服务器监测',
 
   // 站点链接
   SiteUrl: '/',
@@ -25,8 +25,8 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
-      url: 'https://status.org.cn/'
+      text: '博客',
+      url: 'https://xnian.top'
     },
     {
       text: 'GitHub',
